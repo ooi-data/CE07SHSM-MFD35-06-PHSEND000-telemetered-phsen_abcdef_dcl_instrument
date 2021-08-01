@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE07SHSM-MFD35-06-PHSEND000-telemetered-phsen_abcdef_dcl_instrument
-last_request: '2021-07-19T17:56:17.462458Z'
+last_request: '2021-08-01T00:55:16.066075Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-MFD35-06-PHSEND000-telemetered-phsen_abcdef_dcl_instrument/main/history/response.json
 status: failed
