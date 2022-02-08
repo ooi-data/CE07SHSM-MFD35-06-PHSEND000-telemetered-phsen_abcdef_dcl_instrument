@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE07SHSM-MFD35-06-PHSEND000-telemetered-phsen_abcdef_dcl_instrument
 data_stream: CE07SHSM-MFD35-06-PHSEND000-telemetered-phsen_abcdef_dcl_instrument
-end_date: '2021-12-31T22:31:04.000Z'
-last_updated: '2022-01-21T23:15:59.823843'
+end_date: '2022-02-04T18:31:21.000Z'
+last_updated: '2022-02-08T01:50:02.293426Z'
 start_date: '2015-04-05T20:30:48.000Z'
-status: success
+status: pending
